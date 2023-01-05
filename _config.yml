@@ -55,15 +55,15 @@ features                                  :
     description                           : Depaniko vous permet de générer, signer et télécharger vos devis & factures directement depuis l'application.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Pour les artisans: garantie de paiement  
+  - title                                 : Pour les artisans, une garantie de paiement  
     description                           : Travaillez en toute quiétude grâce au système de paimenent Depaniko. Nous nous assurons de la disponibilité des fonds de vos futurs clients avant de valider leurs réservations.
     fontawesome_icon_name                 : star
 
-  - title                                 : Pour les artisans: trouver des matériaux proches de vous!
+  - title                                 : Pour les artisans, trouver des matériaux proches de soi!
     description                           : Depaniko vous offre la possibilité de trouver et d'acheter des matériaux et fournitures autour de votre localisation.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Pour les artisans: revendez votre surplus
+  - title                                 : Pour les artisans, revendre son surplus
     description                           : Grâce a notre partenaire StockPro, revendez facilement votre surplus de matériel après chacun de vos travaux!
     fontawesome_icon_name                 : link
 
