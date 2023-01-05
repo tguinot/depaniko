@@ -35,45 +35,38 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Localisation GPS
+    description                           : Avec Depaniko, trouvez des artisans et dépanneurs proches de chez vous et pouvant intervenir rapidement!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Reservations rapides
+    description                           : Grâce aux appels vidéo et aux photos, vous pouvez décrire rapidement votre besoin, et expliquer clairement les travaux que vous souhaiter réaliser.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Qualifications et certifications professionnelles
+    description                           : Filtrez les artisans par qualifications ou certifications RGE et Qualibat directement depuis l'application!
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Éxperience et avis 
+    description                           : Selectionnez l'artisan qui vous convient le mieux grâce aux avis clients et aux photos détaillées de leurs travaux précedents!
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Devis et factures automatiques
+    description                           : Depaniko vous permet de générer, signer et télécharger vos devis & factures directement depuis l'application.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Pour les artisans: garantie de paiement  
+    description                           : Travaillez en toute quiétude grâce au système de paimenent Depaniko. Nous nous assurons de la disponibilité des fonds de vos futurs clients avant de valider leurs réservations.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Pour les artisans: trouver des matériaux proches de vous!
+    description                           : Depaniko vous offre la possibilité de trouver et d'acheter des matériaux et fournitures autour de votre localisation.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Pour les artisans: revendez votre surplus
+    description                           : Grâce a notre partenaire StockPro, revendez facilement votre surplus de matériel après chacun de vos travaux!
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
